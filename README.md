@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Mirstyan / student</h1>
+<h1 align="center">⚡ Mirstyan</h1>
 
 ###
 
