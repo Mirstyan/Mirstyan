@@ -1,33 +1,47 @@
-### 👨‍💻 About Me
-- 🎓 Computer Science Student at Peter the Great St. Petersburg Polytechnic University (SPbPU)
-- 💡 Interested in backend development, algorithms, and system design
-- 📬 Reach me at: [Mirstyan12@gmail.com](mailto:Mirstyan12@gmail.com)
+<h1 align="center">⚡ Mirstyan / student</h1>
 
----
+###
 
-### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+</div>
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-**Backend & Tools:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mirstyan&show_icons=true&theme=github_dark&hide_border=true" alt="Mirstyan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirstyan&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mirstyan&theme=bear&show_icons=true&hide_border=true&count_private=true" alt="Mirstyan's GitHub stats" />
 </p>
 
----
+###
 
-### 📬 Contacts
-- **Email:** [Mirstyan12@gmail.com](mailto:Mirstyan12@gmail.com)
-- **GitHub:** [@Mirstyan](https://github.com/Mirstyan)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mirstyan/Mirstyan/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mirstyan/Mirstyan/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Mirstyan/Mirstyan/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+###
+
+<div align="center">
+  <a href="mailto:Mirstyan12@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="34" alt="gmail" />
+  </a>
+  <img width="12" />
+  <a href="https://github.com/Mirstyan">
+    <img src="https://skillicons.dev/icons?i=github" height="34" alt="github" />
+  </a>
+</div>
